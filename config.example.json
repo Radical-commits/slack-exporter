@@ -1,0 +1,9 @@
+{
+  "slack_token": "xoxc-your-token-here",
+  "slack_cookie": "xoxd-your-cookie-here",
+  "channel_id": "C01234567",
+  "days_back": 7,
+  "include_replies": true,
+  "output_directory": "./exports",
+  "include_standalone_messages": false
+}
