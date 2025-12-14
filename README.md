@@ -95,31 +95,31 @@ Each thread is exported to its own markdown file with rich metadata:
 # Thread: Getting error "Manage tags already in progress...
 
 **Thread ID:** 1764228850.463429
-**Channel:** #cdp-support
-**Channel ID:** C01JDQS8JK0
+**Channel:** #support
+**Channel ID:** C01234567
 **Started:** 2025-11-27 10:53:40
-**Author:** Karin Pecovska
+**Author:** John Doe
 **Reply Count:** 15
-**Participants:** Anastasiia Streltsova, Karin Pecovska, Katarina Sokcevic
+**Participants:** Jane Smith, John Doe, Bob Johnson
 
 ---
 
 ## Parent Message
 
-## CDP support
+## Support Thread
 **2025-11-27 10:53:40**
 
-Reporter: @Karin Pecovska
+Reporter: @John Doe
 Type: Failure
 ...
 
 ## Replies (15)
 
-  > **Karin Pecovska** - 2025-11-27 10:55:22
+  > **John Doe** - 2025-11-27 10:55:22
   >
   > Our automated test failed, so I manually created...
 
-  > **Katarina Sokcevic** - 2025-11-27 11:31:32
+  > **Bob Johnson** - 2025-11-27 11:31:32
   >
   > I can see that it tries to acquire a Redis lock...
 ```
